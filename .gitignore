@@ -4,5 +4,7 @@ __pycache__/
 *.pdf
 *.log
 *.xml
+*.tmp.drive*
+
 # If your corpus is very large, don't upload the raw PDFs, 
 # just the processed CSVs or scripts.
