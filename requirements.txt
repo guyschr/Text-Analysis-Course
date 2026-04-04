@@ -1,0 +1,7 @@
+# Machine Learning and Topic Modeling
+pandas
+scikit-learn
+# NLP and Text Processing
+spacy
+# Data Acquisition and API calls (for GROBID)
+grobid-client
